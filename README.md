@@ -32,8 +32,8 @@ deep learning and modern web architecture.
 ### 📊 Dashboard Overview
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rushizambare31-collab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rushizambare31-collab&hide_border=true&theme=tokyonight&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rushizambare31-collab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com?user=rushizambare31-collab&hide_border=true&theme=tokyonight&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
 </div>
 
 ---
@@ -52,8 +52,6 @@ deep learning and modern web architecture.
 <img src="https://raw.githubusercontent.com/rushizambare31-collab/rushizambare31-collab/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
-> ⚠️ Snake animation requires a one-time GitHub Action setup — instructions below.
-
 ---
 
 ### 🧩 Top Technologies
@@ -63,7 +61,7 @@ deep learning and modern web architecture.
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31-collab&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31-collab&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&cache_seconds=1800" width="45%"/>
 </div>
 
 ---
@@ -121,7 +119,7 @@ Interactive recipe discovery UI focused on Indian cuisine with save/search funct
 
 ### 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rushizambare31-collab&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rushizambare31-collab&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&title.limit=8)
 
 - ✅ Deployed 4 full-stack production apps (Vercel + Render)
 - ✅ Integrated Google Gemini AI API into a live product
