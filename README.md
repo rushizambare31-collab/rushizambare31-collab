@@ -49,7 +49,7 @@ deep learning and modern web architecture.
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rushizambare31-collab/rushizambare31-collab/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/rushizambare31-collab/rushizambare31-collab/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 ---
