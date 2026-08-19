@@ -1,139 +1,154 @@
-<!-- RUSHIKESH ZAMBARE | GitHub Profile README -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,75:7C3AED,100:06B6D4&height=220&section=header&text=RUSHIKESH%20ZAMBARE&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Development&descAlignY=61&descSize=16" width="100%"/>
-</p>
+<!-- Top banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=180&section=header&text=Rushikesh%20Zambare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+Rushikesh+Zambare;Computer+Engineering+Student+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Building+modern+and+useful+applications" alt="Typing SVG"/>
-</p>
+<!-- Available for hire badge -->
+![Available for hire](https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-8b5cf6?style=for-the-badge)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushizambare31-collab&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-  <a href="https://github.com/rushizambare31-collab?tab=followers"><img src="https://img.shields.io/github/followers/rushizambare31-collab?style=for-the-badge&logo=github&label=FOLLOWERS&color=06B6D4"/></a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-### Hi 👋 I'm Rushikesh
-
-I'm a **Computer Engineering student** passionate about building modern web applications and exploring **Artificial Intelligence & Machine Learning**.
-
-- 💻 Full Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚛️ React-based applications
-- 🛠️ Node.js, Express & MongoDB
-- 🐍 Python for AI/ML
-- 🚀 Practical project building
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rushikesh+Zambare;Computer+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite,nodejs,express,mongodb,python,tensorflow,git,github,vscode,npm&perline=8"/>
+Passionate about writing clean code, contributing to open source, and building intelligent
+systems that solve real-world problems. Currently exploring the intersections of
+deep learning and modern web architecture.
 </p>
+
+<!-- Action buttons -->
+[![Resume](https://img.shields.io/badge/📄_View_Resume-6366f1?style=for-the-badge&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🚀_Explore_Projects-06b6d4?style=for-the-badge&logoColor=white)](#featured-projects)
 
 <p>
-  <a href="./resume.pdf"><img src="https://img.shields.io/badge/📄%20Download%20Resume-7C3AED?style=for-the-badge"/></a>
+📍 Nashik, Maharashtra, India &nbsp;|&nbsp;
+✉️ rushikeshzambare17@gmail.com &nbsp;|&nbsp;
+🔗 <a href="https://linkedin.com/in/rushikesh-zambare">LinkedIn</a>
 </p>
+
+</div>
 
 ---
 
-## 📊 GitHub Dashboard
+### 📊 Dashboard Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushizambare31-collab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31-collab&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushizambare31-collab&theme=tokyonight&hide_border=true&border_radius=16" width="70%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rushizambare31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rushizambare31&hide_border=true&theme=tokyonight&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
+</div>
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contributions in the Last Year
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushizambare31-collab&theme=tokyo-night&hide_border=true&radius=12&area=true" width="96%"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rushizambare31-collab/rushizambare31-collab/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushizambare31&theme=tokyo-night&hide_border=true&area=true&color=8b5cf6&line=06b6d4&point=ffffff" width="95%"/>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🐍 Contribution Snake
 
-| Project | Description |
-|---|---|
-| 🍳 **Recipe Book** | Modern recipe discovery app with React + Tailwind CSS, search, favorites, dark mode and responsive UI. **[Live Demo](https://recipes-book-zeta.vercel.app/)** |
-| 🛒 **E-Commerce Website** | React-based e-commerce project focused on reusable components and responsive UI. |
-| 🎵 **Spotify MERN Project** | Full-stack music application built while exploring React, Node.js, Express and MongoDB. |
-| 🤖 **AI/ML Experiments** | Python experiments using TensorFlow, Keras and scikit-learn for learning machine learning. |
+<div align="center">
+<img src="https://raw.githubusercontent.com/rushizambare31/rushizambare31/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
 
----
-
-## 🤖 AI / ML Journey
-
-```text
-Python → Data Processing → Machine Learning → Model Training → Evaluation → Applications
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+> ⚠️ Snake animation requires a one-time GitHub Action setup — instructions below.
 
 ---
 
-## 📚 Currently Learning
+### 🧩 Top Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,python,cpp,java,tailwind,git,github,vscode,postman,figma&theme=dark" />
+</div>
 
----
-
-## 🎯 Goals
-
-- [ ] Strengthen AI/ML fundamentals
-- [ ] Build practical machine-learning projects
-- [ ] Improve full-stack development skills
-- [ ] Create production-ready applications
-- [ ] Contribute more consistently to GitHub
-- [ ] Build a strong developer portfolio
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="45%"/>
+</div>
 
 ---
 
-## 📄 Resume
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="./resume.pdf"><img src="https://img.shields.io/badge/📄%20Download%20Resume-7C3AED?style=for-the-badge"/></a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-> Upload your resume to this repository as `resume.pdf` to activate the button.
+**🍲 [Food Finder](https://recipes-book-zeta.vercel.app)**
+AI-powered recipe discovery app with a Gemini-powered chat assistant (floating widget + full `/ask-ai` page), Node.js/Express backend, and MongoDB Atlas for chat persistence. Deployed on Vercel (frontend) + Render (backend).
+
+`React` `Node.js` `MongoDB` `Gemini API`
+
+[🔗 Live Demo](https://recipes-book-zeta.vercel.app) · [💻 Source](https://github.com/rushizambare31-collab/Recipes-Book)
+
+</td>
+<td width="50%">
+
+**🛒 Zaptro — Electronics E-Commerce**
+Full-stack e-commerce platform for electronics with product listings, cart, and dynamic routing built on Next.js App Router.
+
+`Next.js` `React` `Tailwind CSS`
+
+[💻 Source](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎵 Spotify Clone**
+Full-stack monorepo (React/Vite frontend + Node.js/Express backend) with cross-domain cookie auth, CORS handling for preview URLs, and serverless-ready DB connection.
+
+`React` `Vite` `Node.js` `Express`
+
+[🔗 Live](https://spotify-backend-project.vercel.app) · [💻 Source](#)
+
+</td>
+<td width="50%">
+
+**📖 Recipe Book — Premium Indian Recipes**
+Interactive recipe discovery UI focused on Indian cuisine with save/search functionality and a clean, modern interface.
+
+`React` `Tailwind CSS` `MongoDB`
+
+[💻 Source](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+### 🏆 Achievements
 
-<p align="center">
-  <a href="https://github.com/rushizambare31-collab"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=rushizambare31&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)
 
-<p align="center"><i>Let's build something amazing together. 🚀</i></p>
+- ✅ Deployed 4 full-stack production apps (Vercel + Render)
+- ✅ Integrated Google Gemini AI API into a live product
+- ✅ Resolved complex CORS, cross-domain auth & serverless deployment issues
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,100:111827&height=130&section=footer&animation=twinkling" width="100%"/>
-</p>
+---
 
+### 🎯 Currently Learning
+
+![DSA](https://img.shields.io/badge/DSA%20%2F%20LeetCode-8b5cf6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-06b6d4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20based%20AI-8b5cf6?style=flat-square)
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-zambare)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshzambare17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushizambare31)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rushizambare31&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=100&section=footer" width="100%"/>
+
+</div>
