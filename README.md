@@ -32,8 +32,8 @@ deep learning and modern web architecture.
 ### 📊 Dashboard Overview
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rushizambare31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rushizambare31&hide_border=true&theme=tokyonight&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rushizambare31-collab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rushizambare31-collab&hide_border=true&theme=tokyonight&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ deep learning and modern web architecture.
 ### 📈 Contributions in the Last Year
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushizambare31&theme=tokyo-night&hide_border=true&area=true&color=8b5cf6&line=06b6d4&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushizambare31-collab&theme=tokyo-night&hide_border=true&area=true&color=8b5cf6&line=06b6d4&point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -49,7 +49,7 @@ deep learning and modern web architecture.
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rushizambare31/rushizambare31/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/rushizambare31-collab/rushizambare31-collab/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
 > ⚠️ Snake animation requires a one-time GitHub Action setup — instructions below.
@@ -63,7 +63,7 @@ deep learning and modern web architecture.
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushizambare31-collab&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="45%"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@ AI-powered recipe discovery app with a Gemini-powered chat assistant (floating w
 
 `React` `Node.js` `MongoDB` `Gemini API`
 
-[🔗 Live Demo](https://recipes-book-zeta.vercel.app) · [💻 Source](https://github.com/rushizambare31-collab/Recipes-Book)
+[🔗 Live Demo](https://recipes-book-zeta.vercel.app) · [💻 Source](https://github.com/rushizambare31-collab-collab/Recipes-Book)
 
 </td>
 <td width="50%">
@@ -121,7 +121,7 @@ Interactive recipe discovery UI focused on Indian cuisine with save/search funct
 
 ### 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rushizambare31&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rushizambare31-collab&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)
 
 - ✅ Deployed 4 full-stack production apps (Vercel + Render)
 - ✅ Integrated Google Gemini AI API into a live product
@@ -145,9 +145,9 @@ Interactive recipe discovery UI focused on Indian cuisine with save/search funct
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-zambare)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshzambare17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushizambare31)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushizambare31-collab)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rushizambare31&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rushizambare31-collab&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=100&section=footer" width="100%"/>
 
