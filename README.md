@@ -21,7 +21,7 @@ deep learning and modern web architecture.
 
 <p>
 📍 Nashik, Maharashtra, India &nbsp;|&nbsp;
-✉️ rushikeshzambare17@gmail.com &nbsp;|&nbsp;
+✉️ rushizambare31@gmail.com &nbsp;|&nbsp;
 🔗 <a href="https://linkedin.com/in/rushikesh-zambare">LinkedIn</a>
 </p>
 
